@@ -1,0 +1,117 @@
+#insta-logo {
+    height: 90px;
+    width: 250px;
+}
+
+#fb {
+    height: 30px;
+    width: 30px;
+}
+
+#mainform {
+    text-align: center;
+    height: 400px;
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 500px;
+    margin-right: 400px;
+    margin-bottom: 5px;
+    border: 0.1px solid rgb(197, 197, 197);
+    border-radius: 5px;
+}
+
+#mainform input[type="text"] {
+    height: 30px;
+    width: 250px;
+    background-color: rgb(248, 246, 246);
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 0.1px solid rgb(197, 197, 197);
+}
+
+#mainform input[type="password"] {
+    height: 30px;
+    width: 250px;
+    background-color: rgb(248, 246, 246);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 0.1px solid rgb(197, 197, 197);
+}
+
+#mainform button {
+    background-color: rgba(0, 148, 246, 0.788);
+    color: white;
+    height: 35px;
+    width: 260px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    border: 0.1px solid rgb(197, 197, 197);
+}
+
+#mainform button:active {
+    background-color: white;
+    color: black;
+}
+
+#mainform hr {
+    width: 250px;
+}
+
+#login {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(41, 59, 97);
+    display: block;
+    padding-bottom: 1px;
+}
+
+#forget {
+    display: block;
+    text-decoration: none;
+    color: rgb(41, 59, 97);
+    font-size: small;
+    padding-bottom: 15px;
+}
+
+#second {
+    text-align: center;
+    border: 0.5px solid rgb(197, 197, 197);
+    height: 60px;
+    width: 350px;
+    margin-top: 15px;
+    margin-left: 500px;
+    margin-right: 400px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    margin-bottom: 2px;
+}
+
+#google {
+    height: 45px;
+    width: 120px;
+}
+
+#mico {
+    height: 38px;
+    width: 120px;
+    padding-bottom: 4px;
+}
+
+#second a {
+    color: rgb(0, 148, 246);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
